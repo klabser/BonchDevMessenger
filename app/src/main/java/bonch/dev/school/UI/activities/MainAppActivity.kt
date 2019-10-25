@@ -44,10 +44,11 @@ class MainAppActivity : AppCompatActivity() {
             .commit()
     }*/
 
-        fun showDialogWindow(){
+        /*fun showDialogWindow(){
             val dialog = PasswordFragment()
             dialog.show(fragmentManager, "PasswordFragment")
-        }
+        }*/
+
     /*fun replacePasswordFragment() {
         val fragment = PasswordFragment()
         fragmentManager
